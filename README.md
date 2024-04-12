@@ -7,6 +7,7 @@ and obtained the BEng degree from Shenyuan Honors College, (**Beihang University
 - 🤔 More info can be found in my [homepage](https://ry-hao.top/)
 - 📫 How to reach me: haory369@gmail.com
 - :book: Check my publications via [google scholar](https://scholar.google.com/citations?user=msJSbWYAAAAJ)
+- 👯 I'm looking for a PhD position (Expect to enroll in 2025)
 
 <!--
 **ryhnhao/ryhnhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
