@@ -1,4 +1,12 @@
-### Hi there 👋
+### **Hi there 👋**
+I'm a Research Assiatant at Institute for AI Industry Research, Tsinghua University (**AIR, THU**). 
+I obtained the MPhil degree from Department of Automation, (**Tsinghua University**) in 2023,
+and obtained the BEng degree from Shenyuan Honors College, (**Beihang University**) in 2020.
+
+- 🔭 I'm currently working on **vision perception and decision-making in autonomous systems**
+- 🤔 More info can be found in my [homepage](https://ry-hao.top/)
+- 📫 How to reach me: haory369@gmail.com
+- :book: Check my publications via [google scholar](https://scholar.google.com/citations?user=msJSbWYAAAAJ)
 
 <!--
 **ryhnhao/ryhnhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
